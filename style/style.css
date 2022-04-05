@@ -22,14 +22,30 @@ h2 {
   margin: 0 auto;
 }
 
-.container {
+.hero {
   width: 600px;
   max-width: 100%;
   margin: 0 auto;
+  text-align: center;
+  padding-top: 110px;
 }
 .logo {
   width: 20px;
   height: 20px;
   border-radius: 50%;
   background-color: lightcoral;
+}
+.btn-wrapper {
+  width: 100%;
+}
+.btn-branding {
+  text-decoration: none;
+  margin: 10px;
+  background-color: lightcoral;
+  text-decoration: none;
+  cursor: pointer;
+  font-size: 15px;
+  text-transform: capitalize;
+  padding: 10px 50px;
+  border: none;
 }
