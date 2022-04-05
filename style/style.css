@@ -27,3 +27,9 @@ h2 {
   max-width: 100%;
   margin: 0 auto;
 }
+.logo {
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  background-color: lightcoral;
+}
